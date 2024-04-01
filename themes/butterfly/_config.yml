@@ -657,7 +657,9 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://source.fomal.cc/img/home_bg.webp)
+# background: url(https://source.fomal.cc/img/home_bg.webp)
+# background: /img/home_bg.webp
+background: url(/img/home_bg.webp)
 
 # Footer Background
 footer_bg: false
