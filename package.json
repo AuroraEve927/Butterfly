@@ -17,6 +17,7 @@
     "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
     "hexo-butterfly-envelope": "^1.0.15",
     "hexo-butterfly-footer-beautify": "^1.0.6",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
@@ -30,6 +31,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
-    "live2d-widget-model-koharu": "^1.0.5"
+    "live2d-widget-model-koharu": "^1.0.5",
+    "save": "^2.9.0"
   }
 }
