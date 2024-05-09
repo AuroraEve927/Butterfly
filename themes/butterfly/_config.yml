@@ -27,6 +27,7 @@ menu:
     音乐: /music/ || fas fa-music
     照片: /Gallery/ || fas fa-images
     电影: /movies/ || fas fa-video
+    宝藏网站: /STARS/ || fas fa-STARS
   友链: /link/ || fas fa-link
   留言板: /comments/ || fas fa-envelope-open
   关于: /about/ || fas fa-heart
