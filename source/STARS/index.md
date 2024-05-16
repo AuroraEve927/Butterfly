@@ -59,6 +59,18 @@ Emojipedia（表情包网站）：[📙 Emojipedia — 😃 Home of Emoji Meanin
 
 pixabay（免费高清图片）：[免费正版高清图片素材库 超过4百万张优质图片和视频素材可供免费使用和下载 - Pixabay - Pixabay](https://pixabay.com/zh/)
 
+Unsplash：[Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
+
+Pexels：[免费素材图片 (pexels.com)](https://www.pexels.com/zh-cn/)
+
+Pinterest（宝藏网站）：[Pinterest](https://www.pinterest.com/)
+
+ 头像及图标：[Find Icons with the Perfect Look & Feel | Font Awesome](https://fontawesome.com/icons?from=io)
+
+阿里巴巴矢量图标库：[iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
+
+
+
 ## 一些小工具
 
 小黄鸭（局域网联机工具）：[EasyN2N（N2N启动器） v3.1.2 | Bug侠 (bugxia.com)](https://bugxia.com/357.html)||https://bugxia.com/357.html

@@ -4,7 +4,8 @@
 
 nav:
   # logo: "../../DIY/butterfly/photos/favicon.ico" # image
-  logo: /img/favicon.ico
+  # logo: /img/favicon.ico
+  logo:
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -19,18 +20,32 @@ menu:
   #   Movie: /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
-  首页: / || fas fa-home
-  时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
-    宝藏网站: /STARS/ || fas fa-STARS
-  友链: /link/ || fas fa-link
-  留言板: /comments/ || fas fa-envelope-open
-  关于: /about/ || fas fa-heart
+  首页: / || icon-shouye
+  时间轴: /archives/ || icon-zhexiantu
+  标签: /tags/ || icon-zhuzhuangtu
+  分类: /categories/ || icon-bingzhuangtu
+  清单|| icon-kapian-01:
+    音乐: /music/ || icon-yinle
+    照片: /Gallery/ || icon-xiangce-copy
+    电影: /movies/ || icon-dianying
+    宝藏网站: /STARS/ || icon-fenxiang
+  友链: /link/ || icon-haoyou
+  留言板: /comments/ || icon-liuyan
+  关于: /about/ || icon-shijie
+
+  # 原版，无图标
+  # 首页: / || fas fa-home
+  # 时间轴: /archives/ || fas fa-archive
+  # 标签: /tags/ || fas fa-tags
+  # 分类: /categories/ || fas fa-folder-open
+  # 清单||fa fa-heartbeat:
+  #   音乐: /music/ || fas fa-music
+  #   照片: /Gallery/ || fas fa-images
+  #   电影: /movies/ || fas fa-video
+  #   宝藏网站: /STARS/ || fas fa-STARS
+  # 友链: /link/ || fas fa-link
+  # 留言板: /comments/ || fas fa-envelope-open
+  # 关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -46,21 +61,32 @@ code_word_wrap: false
 # Social Settings (社交圖標設置)
 # formal:
 #   icon: link || the description || color
+# social:
+#   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
+#   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+#   fab fa-github: https://github.com/AuroraEve-GitHub || Github || "#hdhfbb"
+#   fas fa-envelope: mailto:auroraevemail@gmail.com || Email || "#000000"
+
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
-  fab fa-github: https://github.com/AuroraEve-GitHub || Github || "#hdhfbb"
-  fas fa-envelope: mailto:auroraevemail@gmail.com || Email || "#000000"
+  微信: /assets/QRCode.png || icon-wechat || faa-tada
+  QQ: https://qm.qq.com/q/DRjH4jVhrc || icon-qq || faa-tada
+  B站: https://space.bilibili.com/402374642 || icon-bilibili-on || faa-tada
+  谷歌邮箱: mailto:auroraevemail@gmail.com || icon-youxiang || faa-tada
+  github: https://github.com/AuroraEve-GitHub || icon-a-github_github ||
+  # fas fa-envelope: mailto:auroraevemail@gmail.com || Email || "#000000"
+  # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
 
 # Image (圖片設置)
 # --------------------------------------
 
-# Favicon（網站圖標）
-favicon: /img/favicon.png
+# Favicon（網站圖標）(网站图标)
+# favicon: /img/favicon.png
+favicon: /img/日出.png
 
-# Avatar (頭像)
+# Avatar (頭像)（头像）
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  # img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://bu.dusays.com/2024/05/16/66457920adec5.jpg
   effect: false
 
 # Disable all banner image
@@ -660,7 +686,12 @@ text_align_justify: false
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # background: url(https://source.fomal.cc/img/home_bg.webp)
 # background: /img/home_bg.webp
-background: url(/img/home_bg.webp)
+# background: url(/img/home_bg.webp)
+background:
+  default: url(https://bu.dusays.com/2023/10/20/6531f3af280f2.jpg) #【必选】默认背景
+  darkmode: url(https://bu.dusays.com/2024/05/16/664579b244ea4.jpg) #【可选】PC端夜间模式背景
+  mobileday: url(https://bu.dusays.com/2024/05/16/66457956b4d13.jpg) #【可选】移动端日间默认背景
+  mobilenight: url(https://bu.dusays.com/2024/05/16/66457956ce15c.jpg) #【可选】移动端夜间模式背景
 
 # Footer Background
 footer_bg: false
@@ -803,6 +834,8 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
+    - 从来没有真正的绝境，只有心灵的迷途。
+    - Never really desperate, Only the lost of the soul.
     - 今日事&#44;今日毕
     - Never put off till tomorrow what you can do today
 
@@ -955,10 +988,14 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/cat.css">
+    # - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4549610_x525iqu42yf.css" media="defer" onload="this.media='all'">
+    # - <link rel="stylesheet" href="/css/custom.css">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css"  media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
     - <script defer src="https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js"></script>
     - <script defer data-pjax src="/js/cat.js"></script>
+    - <script async src="//at.alicdn.com/t/c/font_4549610_o2c8joi6gzs.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
