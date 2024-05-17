@@ -250,7 +250,7 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text:
+  custom_text: <a href="https://beian.miit.gov.cn/"><img class="icp-icon" src=""><span>晋ICP备2022006761号-1</span></a>&nbsp|&nbsp<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=14072302000026"><img class="icp-icon" src="/img/备案图标.png"><span>晋公网安备 14072302000026号</span></a>
   copyright: true # Copyright of theme and framework
 
 # aside (側邊欄)
