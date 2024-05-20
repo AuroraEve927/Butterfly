@@ -86,7 +86,7 @@ favicon: /img/日出.png
 # Avatar (頭像)（头像）
 avatar:
   # img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  img: https://pic.xiaozhangstu.com/i/2024/05/20/664b2aec6c1c9.webp
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -688,10 +688,10 @@ text_align_justify: false
 # background: /img/home_bg.webp
 # background: url(/img/home_bg.webp)
 background:
-  default: url(https://pic.xiaozhangstu.com/i/2024/05/20/664b2aed04708.webp) #【必选】默认背景
-  darkmode: url(https://pic.xiaozhangstu.com/i/2024/05/20/664b2aec843cd.webp) #【可选】PC端夜间模式背景
-  mobileday: url(https://pic.xiaozhangstu.com/i/2024/05/20/664b2aec2f9c7.webp) #【可选】移动端日间默认背景
-  mobilenight: url(https://pic.xiaozhangstu.com/i/2024/05/20/664b2aec85e98.webp) #【可选】移动端夜间模式背景
+  default: url(/img/index.jpg) #【必选】默认背景
+  darkmode: url(/img/dark.jpg) #【可选】PC端夜间模式背景
+  mobileday: url(/img/moda.jpg) #【可选】移动端日间默认背景
+  mobilenight: url(/img/moni.jpg) #【可选】移动端夜间模式背景
 
 # Footer Background
 footer_bg: false
