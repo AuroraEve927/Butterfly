@@ -109,6 +109,7 @@ date: 2024-05-09 11:20:06
 
 <div class="btn-center">
 {% btn 'https://bugxia.com/357.html',小黄鸭（局域网联机工具）, ,outline larger %}
+{% btn 'https://www.dogfight360.com/blog/475/',UsbEAm Hosts Editor, ,outline larger %}
 </div>
 
 # 博客榜样
