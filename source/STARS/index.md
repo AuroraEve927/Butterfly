@@ -61,7 +61,9 @@ date: 2024-05-09 11:20:06
 <div class="btn-center">
 {% btn 'https://www.wikipedia.org/',Wikipedia（维基百科）, ,outline larger %}
 {% btn 'https://www.52pojie.cn/',吾爱破解, ,outline red larger %}
+{% btn 'https://sunsetbot.top/map/',火烧云地图, ,outline red larger %}
 </div>
+
 
 ## 资源、素材库
 
@@ -110,7 +112,9 @@ date: 2024-05-09 11:20:06
 <div class="btn-center">
 {% btn 'https://bugxia.com/357.html',小黄鸭（局域网联机工具）, ,outline larger %}
 {% btn 'https://www.dogfight360.com/blog/475/',UsbEAm Hosts Editor, ,outline larger %}
+{% btn 'https://tool.bluesdawn.top/bv2av/',BV2AV, ,outline pink larger %}
 </div>
+
 
 # 博客榜样
 
