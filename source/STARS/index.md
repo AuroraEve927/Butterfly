@@ -105,7 +105,9 @@ date: 2024-05-09 11:20:06
 {% btn 'https://typora.io/',Typora, ,outline larger %}
 {% btn 'https://www.latex-project.org/',LaTeX, ,outline red larger %}
 {% btn 'https://www.overleaf.com/',overleaf, ,outline blue larger %}
+{% btn 'https://www.typingclub.com/sportal/program-3.game',TypingClub, ,outline orange larger %}
 </div>
+
 
 游戏娱乐
 
