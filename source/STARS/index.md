@@ -107,8 +107,17 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.latex-project.org/',LaTeX, ,outline red larger %}
 {% btn 'https://www.overleaf.com/',overleaf, ,outline blue larger %}
 {% btn 'https://www.typingclub.com/sportal/program-3.game',TypingClub, ,outline orange larger %}
+{% btn 'https://www.runoob.com/',菜鸟教程, ,outline green larger %}
 </div>
 
+代码高亮
+
+<div class="btn-center">
+{% btn 'http://word.wd1x.com/',Word/PPT代码在线高亮, ,outline red larger %}
+{% btn 'http://www.codeinword.com/',CodeInWord, ,outline green larger %}
+{% btn 'https://highlightcode.com/',代码在线高亮工具, ,outline blue larger %}
+{% btn 'https://carbon.now.sh/',Carbon, ,outline black larger %}
+</div>
 
 游戏娱乐
 
