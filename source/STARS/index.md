@@ -108,6 +108,7 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.overleaf.com/',overleaf, ,outline blue larger %}
 {% btn 'https://www.typingclub.com/sportal/program-3.game',TypingClub, ,outline orange larger %}
 {% btn 'https://www.runoob.com/',菜鸟教程, ,outline green larger %}
+{% btn 'https://potplayer.tv/',PotPlayer, ,outline yellow larger %} 
 </div>
 
 代码高亮
