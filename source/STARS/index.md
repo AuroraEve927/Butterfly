@@ -97,6 +97,20 @@ date: 2024-05-09 11:20:06
 {% btn 'https://fontawesome.com/icons?from=io',Font Awesome, ,outline larger %}
 {% btn 'https://www.iconfont.cn/',iconfont（阿里巴巴矢量图标库）, ,outline red larger %}
 </div>
+审美提高
+
+字体收集
+
+<div class="btn-center">
+{% btn 'https://flowus.cn/share/12828fe3-8806-4350-bfbe-4fc1d032e5db',免费中文字体收集计划, ,outline larger %}
+{% btn 'https://zfont.cn/',找字体, ,outline blue larger %}
+{% btn 'https://www.100font.com/',100font, ,outline yellow larger %}
+{% btn 'https://font.chinaz.com/',站长字体, ,outline blue larger %}
+{% btn 'https://www.maoken.com/',猫啃网, ,outline orange larger %}
+{% btn 'https://www.qiuziti.com/',求字体网, ,outline green larger %}
+{% btn 'https://font.chinaz.com/ai/',站长AI识字, ,outline blue larger %}
+{% btn 'https://www.hellofont.cn/font-ai',字由AI识字, ,outline black larger %} 
+</div>
 
 ## 一些小工具
 
@@ -108,8 +122,22 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.overleaf.com/',overleaf, ,outline blue larger %}
 {% btn 'https://www.typingclub.com/sportal/program-3.game',TypingClub, ,outline orange larger %}
 {% btn 'https://www.runoob.com/',菜鸟教程, ,outline green larger %}
-{% btn 'https://potplayer.tv/',PotPlayer, ,outline yellow larger %} 
 </div>
+
+
+装机软件
+
+<div class="btn-center">
+{% btn 'https://www.7-zip.org/',7zip, ,outline green larger %}
+{% btn 'https://potplayer.tv/',PotPlayer, ,outline yellow larger %} 
+{% btn 'https://www.voidtools.com/zh-cn/',Everything, ,outline orange larger %} 
+{% btn 'https://github.com/Wox-launcher/Wox',Wox, ,outline green larger %} 
+{% btn 'https://obsproject.com/',OBS, ,outline larger %} 
+{% btn 'https://geekuninstaller.com/',geek, ,outline blue larger %} 
+{% btn 'https://github.com/zbezj/HEU_KMS_Activator',HEU_KMS, ,outline green larger %} 
+{% btn 'https://www.bandisoft.com/honeyview/',Honeyview, ,outline orange larger %} 
+</div>
+
 
 代码高亮
 
