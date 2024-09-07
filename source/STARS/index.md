@@ -99,6 +99,18 @@ date: 2024-05-09 11:20:06
 </div>
 审美提高
 
+<div class="btn-center">
+{% btn 'https://500px.com.cn/community/discover?t=rating',500px, ,outline larger %}
+</div>
+
+音乐下载
+
+<div class="btn-center">
+{% btn 'https://tool.liumingye.cn/music/?page=searchPage#/',My Free MP3, ,outline larger %}
+{% btn 'https://mixkit.co/',mixkit, ,outline larger %}
+{% btn 'https://www.playlistmusic.com.cn/playList',PLAYLIST, ,outline red larger %}
+</div>
+
 字体收集
 
 <div class="btn-center">
@@ -128,6 +140,7 @@ date: 2024-05-09 11:20:06
 装机软件
 
 <div class="btn-center">
+{% btn 'https://shiyrj.top/',软件合集, ,outline blue larger %} 
 {% btn 'https://www.7-zip.org/',7zip, ,outline green larger %}
 {% btn 'https://potplayer.tv/',PotPlayer, ,outline yellow larger %} 
 {% btn 'https://www.voidtools.com/zh-cn/',Everything, ,outline orange larger %} 

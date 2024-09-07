@@ -5,6 +5,14 @@ date: 2024-05-05 18:16:00
 
 # 想看的电影
 
+The Glory
+
+Alice in Borderland
+
+Squid Game
+
+
+
 天外生命		[【原创翻译】天外生命：第一章_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vJ411n7kx/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=851eb39e369398dfd488218128ad07b6)
 
 合集		[欧美电影百大经典镜头_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BD421J7Cb/?spm_id_from=333.999.0.0&vd_source=851eb39e369398dfd488218128ad07b6)

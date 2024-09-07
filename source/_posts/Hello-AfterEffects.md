@@ -17,3 +17,8 @@ tags:
 |  不透明度  |     (T)     |
 | 查看关键帧 |   (U)(L)    |
 
+FX Console：特效搜索插件
+
+[VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals](https://www.videocopilot.net/blog/2018/05/fx-console-updated-to-v1-0-3/)
+
+裁切黑边一边360
