@@ -5,5 +5,3 @@ aplayer: true
 ---
 
 {% meting "12597348540" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%}
-
-{% meting "9324141474" "tencent" "playlist" "autoplay" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%}
