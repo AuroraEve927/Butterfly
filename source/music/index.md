@@ -1,4 +1,7 @@
 ---
 title: music
 date: 2024-05-05 18:16:16
+aplayer: true
 ---
+
+{% meting "9324141474" "tencent" "playlist" "autoplay" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%}
