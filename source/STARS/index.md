@@ -79,6 +79,15 @@ date: 2024-05-09 11:20:06
 {% btn 'https://github.com/fomalhaut1998/PicGoDemo',壁纸, ,outline purple larger %}
 </div>
 
+PPT模板
+
+<div class="btn-center">
+{% btn 'https://www.hippter.com/',HiPPTer（合集）, ,outline blue larger %}
+{% btn 'https://www.officeplus.cn/PPT/template/',OfficePLUS, ,outline orange larger %}
+{% btn 'https://www.ypppt.com/',优品PPT, ,outline blue larger %}
+{% btn 'https://www.1ppt.com/',第1PPT, ,outline blue larger %}
+</div>
+
 免扣图片素材
 
 <div class="btn-center">
@@ -122,6 +131,15 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.qiuziti.com/',求字体网, ,outline green larger %}
 {% btn 'https://font.chinaz.com/ai/',站长AI识字, ,outline blue larger %}
 {% btn 'https://www.hellofont.cn/font-ai',字由AI识字, ,outline black larger %} 
+</div>
+
+学习版软件
+
+<div class="btn-center">
+{% btn 'https://softgj.com/',软件管家（微信公众号）, ,outline green larger %}
+{% btn 'https://shiyrj.top/',石用软件, ,outline blue larger %}
+{% btn 'https://github.com/zbezj/HEU_KMS_Activator',HEU_KMS, ,outline green larger %}
+{% btn 'https://otp.landian.vip/zh-cn/',Office Tool Plus, ,outline blue larger %}
 </div>
 
 ## 一些小工具
