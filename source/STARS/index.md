@@ -31,6 +31,15 @@ date: 2024-05-09 11:20:06
 
 {% endflink %}
 
+## 论坛
+
+<div class="btn-center">
+{% btn 'https://www.v2ex.com/',V2EX, ,outline black larger %}
+{% btn 'https://linux.do/',LINUX DO, ,outline black larger %}
+{% btn 'https://www.52pojie.cn/',吾爱破解, ,outline red larger %}
+{% btn 'https://app.follow.is/',Follow, ,outline orange larger %}  
+</div>
+
 ## 影视剧
 
 正版：
