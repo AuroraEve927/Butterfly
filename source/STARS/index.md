@@ -36,8 +36,11 @@ date: 2024-05-09 11:20:06
 <div class="btn-center">
 {% btn 'https://www.v2ex.com/',V2EX, ,outline black larger %}
 {% btn 'https://linux.do/',LINUX DO, ,outline black larger %}
+{% btn 'https://juejin.cn/',稀土掘金, ,outline blue larger %}
+{% btn 'https://www.cnblogs.com/',博客园, ,outline orange larger %}
 {% btn 'https://www.52pojie.cn/',吾爱破解, ,outline red larger %}
-{% btn 'https://app.follow.is/',Follow, ,outline orange larger %}  
+{% btn 'https://app.follow.is/',Follow, ,outline orange larger %}
+{% btn 'https://blog.csdn.net/erthre/article/details/137621365',程序员论坛合集, ,outline red larger %}
 </div>
 
 ## 影视剧
@@ -84,6 +87,7 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.pinterest.com/',Pinterest（宝藏网站）, ,outline red larger %}
 {% btn 'https://www.pexels.com/zh-cn/',Pexels, ,outline blue larger %}
 {% btn 'https://unsplash.com/',Unsplash, ,outline pink larger %}
+{% btn 'https://www.pixiv.net/',pixiv, ,outline blue larger %}
 {% btn 'https://zhuanlan.zhihu.com/p/544416825?utm_id=0',图片网址合集, ,outline blue larger %}
 {% btn 'https://github.com/fomalhaut1998/PicGoDemo',壁纸, ,outline purple larger %}
 </div>

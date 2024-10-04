@@ -71,8 +71,8 @@ social:
   微信: /assets/QRCode.png || icon-wechat || faa-tada
   QQ: https://qm.qq.com/q/DRjH4jVhrc || icon-qq || faa-tada
   B站: https://space.bilibili.com/402374642 || icon-bilibili-on || faa-tada
-  谷歌邮箱: mailto:auroraevemail@gmail.com || icon-youxiang || faa-tada
-  github: https://github.com/AuroraEve-GitHub || icon-a-github_github ||
+  谷歌邮箱: mailto:auroraeve927@gmail.com || icon-youxiang || faa-tada
+  github: https://github.com/AuroraEve927 || icon-a-github_github ||
   # fas fa-envelope: mailto:auroraevemail@gmail.com || Email || "#000000"
   # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
 
@@ -273,7 +273,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/AuroraEve-GitHub
+      link: https://github.com/AuroraEve927
   card_announcement:
     enable: true
     content: This is my Blog
