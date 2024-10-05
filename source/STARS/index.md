@@ -222,5 +222,6 @@ PPT模板
 {% btn 'https://paul.ren/',奇趣保罗, ,outline blue larger %}
 {% btn 'https://polar-bear.eu.org/',polar-bear～Blog, ,outline larger %}
 {% btn 'https://blog.aiheadn.cn/',a.d博客, ,outline larger %}
+{% btn 'https://blog.goodboyboy.top/',惬意小屋-点滴记忆, ,outline larger %}
 
 </div>
