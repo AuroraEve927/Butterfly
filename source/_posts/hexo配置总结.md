@@ -14,3 +14,15 @@ tags:
 [Heo同款loading动画 | 安知鱼 (anheyu.com)](https://blog.anheyu.com/posts/52d8.html)
 
 [Hexo安知鱼主题修改背景折腾记录 | GoodBoyboy 's Blog｜惬意小屋-点滴记忆](https://blog.goodboyboy.top/posts/3299842545.html#:~:text=当完成上面操作后我们)
+
+添加--anzhiyu-card-bg
+
+主题文件夹下\source\css\_global\index.styl
+
+添加
+
+```
+:root
+  --anzhiyu-card-bg: #fff;
+```
+
