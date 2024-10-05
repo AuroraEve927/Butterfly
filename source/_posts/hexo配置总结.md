@@ -15,7 +15,7 @@ tags:
 
 [Hexo安知鱼主题修改背景折腾记录 | GoodBoyboy 's Blog｜惬意小屋-点滴记忆](https://blog.goodboyboy.top/posts/3299842545.html#:~:text=当完成上面操作后我们)
 
-添加--anzhiyu-card-bg
+1、添加--anzhiyu-card-bg
 
 主题文件夹下\source\css\_global\index.styl
 
@@ -26,3 +26,34 @@ tags:
   --anzhiyu-card-bg: #fff;
 ```
 
+2、作者链接修改：
+
+在themes\butterfly\_config.yml
+
+```yaml
+post_copyright:
+  enable: true
+  decode: false
+  author_href: https://blog.auroraeve.com/
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+```
+
+author_href: https://blog.auroraeve.com/（你的主页链接）
+
+接着修改文章链接
+
+在_config.yml里
+
+```
+# URL
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: http://example.com
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+```
+
+url: http://example.com（修改为你的主页链接）

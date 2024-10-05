@@ -138,8 +138,9 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
-  subtitle: "Page Not Found"
+  enable: true
+  # subtitle: "Page Not Found"
+  subtitle: "页面没有找到"
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
 post_meta:
@@ -198,7 +199,7 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href:
+  author_href: https://blog.auroraeve.com/
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -276,7 +277,7 @@ aside:
       link: https://github.com/AuroraEve927
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 大家好，这里是AuroraEve的博客首页，有事请电邮我。
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
