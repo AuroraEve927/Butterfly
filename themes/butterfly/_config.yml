@@ -73,6 +73,10 @@ social:
   B站: https://space.bilibili.com/402374642 || icon-bilibili-on || faa-tada
   谷歌邮箱: mailto:auroraeve927@gmail.com || icon-youxiang || faa-tada
   github: https://github.com/AuroraEve927 || icon-a-github_github ||
+  RSS: /atom.xml || icon-rss ||
+  # RSS: /atom.xml || fas fa-rss ||
+  # RSS: https://blog.auroraeve.com/atom.xml || fas fa-rss ||
+  # fas fa-rss: /atom.xml
   # fas fa-envelope: mailto:auroraevemail@gmail.com || Email || "#000000"
   # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
 
@@ -1011,7 +1015,8 @@ inject:
     # - <script src="xxxx"></script>
     - <script defer src="https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js"></script>
     - <script defer data-pjax src="/js/cat.js"></script>
-    - <script async src="//at.alicdn.com/t/c/font_4549610_o2c8joi6gzs.js"></script>
+    - <script async src="//at.alicdn.com/t/c/font_4549610_t2s4a2808b.js"></script>
+    - <script src="/js/sun_moon.js" async></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
@@ -1090,3 +1095,5 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
+
+rss: /atom.xml

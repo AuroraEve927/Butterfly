@@ -57,3 +57,34 @@ pretty_urls:
 ```
 
 url: http://example.com（修改为你的主页链接）
+
+3、RSS功能
+
+[Hexo butterfly 主题添加 RSS 插件 | 面具熊小屋 (maskbear.cn)](https://maskbear.cn/2023/05/12/Hexo_RSS插件配置/#:~:text=本文参考网上诸多教材)
+
+[在butterfly主题中添加rss订阅 | 幻想の小窝 (mitpoppy.github.io)](https://mitpoppy.github.io/posts/fe13d434.html#:~:text=在butterfly)
+
+~~hexo-abbrlink~~
+
+~~可以把链接 permalink 转为数字的插件，配置容易，生成时自动转为数字。~~
+
+~~hexo-generator-feed~~
+
+~~生成 RSS 文件的插件~~
+
+~~hexo-filter-nofollow~~
+
+~~为网站使用到的所有外链添加rel="noopener external nofollow noreferrer", 可以有效地加强网站 SEO 和防止权重流失~~
+
+~~hexo-generator-sitemap~~
+
+~~生成 sitemap 的插件~~
+
+~~hexo-generator-baidu-sitemap~~
+
+~~看名字就知道，是专门为百度生成 sitemap 的插件~~
+
+~~作者: Jerry~~
+~~連結: https://butterfly.js.org/posts/4073eda/?highlight=rss~~
+~~來源: Butterfly~~
+~~版權屬於作者所有。商業用途請聯絡作者獲得授權，非商業用途請註明出處。~~
