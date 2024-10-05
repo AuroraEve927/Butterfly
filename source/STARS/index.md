@@ -31,6 +31,15 @@ date: 2024-05-09 11:20:06
 
 {% endflink %}
 
+## 日常使用
+
+<div class="btn-center">
+{% btn 'https://www.v2ex.com/',V2EX, ,outline black larger %}
+{% btn 'https://linux.do/',LINUX DO, ,outline black larger %}
+{% btn 'https://app.follow.is/',Follow, ,outline orange larger %}
+{% btn 'https://www.notion.so/',Notion, ,outline larger %}
+</div>
+
 ## 论坛
 
 <div class="btn-center">
@@ -62,7 +71,7 @@ date: 2024-05-09 11:20:06
 
 <div class="btn-center">
 <!--{% btn 'https://www.libvio.top/',LIBVIO, ,outline purple larger %}-->
-{% btn 'https://www.libvio.top/',LIBVIO, ,outline orange larger %}
+{% btn 'https://www.libvio.link/',LIBVIO, ,outline orange larger %}
 {% btn 'https://vidhub.tv/',VidHub, ,outline orange larger %}
 <!--{% btn 'https://butterfly.js.org/',Butterfly, ,outline green larger %}-->
 <!--{% btn 'https://www.netflix.com/browse',Netflix, ,outline larger %}-->
@@ -165,6 +174,8 @@ PPT模板
 {% btn 'https://www.overleaf.com/',overleaf, ,outline blue larger %}
 {% btn 'https://www.typingclub.com/sportal/program-3.game',TypingClub, ,outline orange larger %}
 {% btn 'https://www.runoob.com/',菜鸟教程, ,outline green larger %}
+{% btn 'https://www.notion.so/',Notion, ,outline larger %}
+{% btn 'https://obsidian.md/',Obsidian, ,outline purple larger %}
 </div>
 
 
@@ -210,5 +221,6 @@ PPT模板
 {% btn 'https://bugxia.com/',Bug侠, ,outline pink larger %}
 {% btn 'https://paul.ren/',奇趣保罗, ,outline blue larger %}
 {% btn 'https://polar-bear.eu.org/',polar-bear～Blog, ,outline larger %}
-    
+{% btn 'https://blog.aiheadn.cn/',a.d博客, ,outline larger %}
+
 </div>
