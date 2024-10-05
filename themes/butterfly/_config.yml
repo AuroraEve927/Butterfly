@@ -771,10 +771,12 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: false
+  enable: true
   field: post # site/post
-  title-prefix-icon: # '\f0c1'
-  title-prefix-icon-color: # '#F47466'
+  # title-prefix-icon: '\f0c1' # '\f0c1'
+  # title-prefix-icon-color: '#F47466' # '#F47466'
+  title-prefix-icon: '\f863'
+  title-prefix-icon-color: "#F47466"
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
@@ -840,14 +842,26 @@ subtitle:
     - Never put off till tomorrow what you can do today
 
 # Loading Animation (加載動畫)
+# preloader:
+#   enable: false
+#   # source
+#   # 1. fullpage-loading
+#   # 2. pace (progress bar)
+#   source: 1
+#   # pace theme (see https://codebyzach.github.io/pace/)
+#   pace_css_url:
+
+# Loading Animation (加载动画)
 preloader:
-  enable: false
+  enable: true
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
-  source: 1
+  # else all
+  source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url:
+  pace_css_url: /css/progress_bar.css
+  avatar: # 自定义头像
 
 # wordcount (字數統計)
 # see https://butterfly.js.org/posts/ceeb73f/#字數統計
@@ -988,6 +1002,7 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/cat.css">
+    - <link rel="stylesheet" href="/css/progress_bar.css">
     # - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4549610_x525iqu42yf.css" media="defer" onload="this.media='all'">
     # - <link rel="stylesheet" href="/css/custom.css">
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css"  media="defer" onload="this.media='all'">
