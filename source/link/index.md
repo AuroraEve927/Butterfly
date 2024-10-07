@@ -16,6 +16,19 @@ type: "link"
       link: https://www.aiheadn.cn/
       avatar: https://q1.qlogo.cn/g?b=qq&nk=2585570153&s=100
       descr: 爱你所爱，行你所行
+    - name: polar-bear～Blog
+      link: https://polar-bear.eu.org/
+      avatar: https://polar-bear.eu.org/img/hand.jpg
+      descr: 如果不曾开始，永远不会抵达。
+    - name: 茈羽酱的小屋
+      link: https://moedk.com
+      avatar: https://moedk.com/images/icon.png
+      descr: 一个萌新站长的折腾日记
+    - name: Fomalhaut🥝
+      link: https://www.fomal.cc/
+      avatar: https://www.fomal.cc/assets/avatar.webp
+      descr: Future is now 🍭🍭🍭
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cc.webp
 
 - class_name: 网站
   class_desc: 值得推荐的网站
@@ -38,8 +51,17 @@ type: "link"
 ---
 
 互加友链请以如下格式发我邮箱：auroraeve927@gmail.com
+siteshot可有可无
 
 name: AuroraEve
 link: https://blog.auroraeve.com/
 avatar: https://blog.auroraeve.com/img/avatar.jpg
 descr: 别赶路，去感受路。
+
+```
+- name: AuroraEve
+  link: https://blog.auroraeve.com/
+  avatar: https://blog.auroraeve.com/img/avatar.jpg
+  descr: 别赶路，去感受路。
+  siteshot: https://bu.dusays.com/2024/10/07/67040536c07e0.jpg
+```
