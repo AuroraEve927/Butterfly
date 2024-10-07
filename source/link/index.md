@@ -12,6 +12,10 @@ type: "link"
       link: https://hexo.io/zh-tw/
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
       descr: 快速、简单且强大的网志框架
+    - name: a.d博客
+      link: https://www.aiheadn.cn/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=2585570153&s=100
+      descr: 爱你所爱，行你所行
 
 - class_name: 网站
   class_desc: 值得推荐的网站
@@ -30,3 +34,12 @@ type: "link"
       descr: 社交分享平台
 
 {% endflink %}
+
+---
+
+互加友链请以如下格式发我邮箱：auroraeve927@gmail.com
+
+name: AuroraEve
+link: https://blog.auroraeve.com/
+avatar: https://blog.auroraeve.com/img/avatar.jpg
+descr: 别赶路，去感受路。
