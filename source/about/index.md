@@ -73,6 +73,7 @@ date: 2024-04-01 17:26:31
 
 ## 喜欢的一些句子
 
+- Some people can read War and Peace and come away thinking it's a simple adventure story; Other can read the ingredients on the back of a chewing-gum wrapper and unlock the secrets of the universe.（有些人看完《战争与和平》，觉得它只是个简单的冒险故事；而有些人看了口香糖包装纸上的成分后，却能解开宇宙的秘密。）（20241006）
 - 不分好歹的善，不是善，是恶的帮凶。（20240814）
 - 读书之法，在于循序而渐进，熟读而精思。
 - 不管你手上用的是哪一台相机，我都由衷地建议你：走出去，去看看这个美丽的世界，欣赏久未凝视过的日出日落，还有城市里难能一见的满天星辰、灿烂星河；按下快门，去拍下你眼中看到的曼妙风景，去记录你所在乎的人和事。只有这样，相机的参数，才被赋予了真正的意义！（20240614）
