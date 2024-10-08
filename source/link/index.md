@@ -29,6 +29,19 @@ type: "link"
       avatar: https://www.fomal.cc/assets/avatar.webp
       descr: Future is now 🍭🍭🍭
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cc.webp
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+    - name: 星雨博客
+      link: https://www.wniui.com
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1502586285&s=640
+      descr: 专注优质网络资源分享的技术博客
+    - name: Yves
+      link: https://blog.maoyiwei.com
+      avatar: https://blog.maoyiwei.com/upload/logo.jpeg
+      descr: Welcome!
 
 - class_name: 网站
   class_desc: 值得推荐的网站

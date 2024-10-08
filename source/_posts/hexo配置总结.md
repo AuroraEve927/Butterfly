@@ -88,3 +88,15 @@ url: http://example.com（修改为你的主页链接）
 ~~連結: https://butterfly.js.org/posts/4073eda/?highlight=rss~~
 ~~來源: Butterfly~~
 ~~版權屬於作者所有。商業用途請聯絡作者獲得授權，非商業用途請註明出處。~~
+
+3、git push失败的情况
+
+```cmd
+git config --global -l
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+git config --global http.proxy "127.0.0.1:7890"
+git config --global https.proxy "127.0.0.1:7890"
+```
+
+参考的这篇文章：[github fatal unable to access问题解决办法-电子发烧友网 (elecfans.com)](https://www.elecfans.com/d/2368032.html)
