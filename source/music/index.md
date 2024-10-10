@@ -1,7 +1,9 @@
 ---
-title: music
+title: 音乐馆
 date: 2024-05-05 18:16:16
+type: music
 aplayer: true
+top_img: false
+comments: false
+aside: false
 ---
-
-{% meting "12597348540" "netease" "playlist" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%}

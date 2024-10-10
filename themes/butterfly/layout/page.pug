@@ -2,7 +2,8 @@ extends includes/layout.pug
 
 block content
   #page
-    if top_img === false
+    //- if top_img === false
+    if top_img === false && page.type != 'music'
       h1.page-title= page.title
 
     case page.type
@@ -12,6 +13,8 @@ block content
         include includes/page/flink.pug
       when 'categories'
         include includes/page/categories.pug
+      when 'music'
+        include includes/page/music.pug
       default
         include includes/page/default-page.pug
 

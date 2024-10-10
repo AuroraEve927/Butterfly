@@ -100,3 +100,17 @@ git config --global https.proxy "127.0.0.1:7890"
 ```
 
 参考的这篇文章：[github fatal unable to access问题解决办法-电子发烧友网 (elecfans.com)](https://www.elecfans.com/d/2368032.html)
+
+4、音乐界面优化
+
+[给你的博客加一个优雅的音乐界面 | 安知鱼 (anheyu.com)](https://blog.anheyu.com/posts/c3d3.html)
+
+颜色配置路径source\css\var.styl；source\css\_global\index.styl
+
+\#anMusic-page
+
+ meting-js(id="12597348540" server="netease" type="playlist" mutex="true" preload="auto" theme="var(default-bg-color)" order="list")
+
+安知鱼#425AEF
+
+推荐#ad7a86
