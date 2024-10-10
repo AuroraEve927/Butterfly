@@ -60,6 +60,7 @@ date: 2024-05-09 11:20:06
 <!--{% btn 'https://www.netflix.com/browse',Netflix, ,outline larger %}-->
 {% btn 'https://www.netflix.com/browse',Netflix, ,outline red larger %}
 {% btn 'https://www.disneyplusfreetrial.com/',Disney+, ,outline blue larger %}
+{% btn 'https://www.acfun.cn/',AcFUN, ,outline red larger %}
 {% btn 'https://www.bilibili.com/',哔哩哔哩, ,outline pink larger %}
 {% btn 'https://v.qq.com/',腾讯视频, ,outline blue larger %}
 <!--{% btn 'https://butterfly.js.org/',Butterfly, ,outline purple larger %}-->
