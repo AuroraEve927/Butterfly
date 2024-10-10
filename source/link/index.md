@@ -6,7 +6,8 @@ type: "link"
 
 {% flink %}
 - class_name: 友情链接
-  class_desc: 那些人，那些事
+  <!-- class_desc: 那些人，那些事 -->
+  class_desc: 有朋自远方来，不亦乐乎？
   link_list:
     - name: Hexo
       link: https://hexo.io/zh-tw/
@@ -42,10 +43,6 @@ type: "link"
       link: https://blog.maoyiwei.com
       avatar: https://blog.maoyiwei.com/upload/logo.jpeg
       descr: Welcome!
-    - name: GoodBoyboy 's Blog
-      link: https://blog.goodboyboy.top/
-      avatar: https://gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g
-      descr: 惬意小屋-点滴记忆
     - name: 晚夜的个人博客
       link: https://www.iczrx.cn
       avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640
