@@ -224,5 +224,6 @@ PPT模板
 {% btn 'https://polar-bear.eu.org/',polar-bear～Blog, ,outline larger %}
 {% btn 'https://blog.aiheadn.cn/',a.d博客, ,outline larger %}
 {% btn 'https://blog.goodboyboy.top/',惬意小屋-点滴记忆, ,outline larger %}
-
+{% btn 'https://note.isshikih.top/',Isshiki修, ,outline larger %}
+{% btn 'https://tonycrane.cc/',鹤翔万里, ,outline larger %}
 </div>
