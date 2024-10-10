@@ -114,3 +114,5 @@ git config --global https.proxy "127.0.0.1:7890"
 安知鱼#425AEF
 
 推荐#ad7a86
+
+但是手机端的配置还有点问题
