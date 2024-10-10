@@ -42,6 +42,14 @@ type: "link"
       link: https://blog.maoyiwei.com
       avatar: https://blog.maoyiwei.com/upload/logo.jpeg
       descr: Welcome!
+    - name: GoodBoyboy 's Blog
+      link: https://blog.goodboyboy.top/
+      avatar: https://gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g
+      descr: 惬意小屋-点滴记忆
+    - name: 晚夜的个人博客
+      link: https://www.iczrx.cn
+      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640
+      descr: 做好量变的准备，促进事物的质变。
 
 - class_name: 网站
   class_desc: 值得推荐的网站
