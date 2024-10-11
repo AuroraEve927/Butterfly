@@ -230,19 +230,22 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
   }
   /* 歌曲列表 */
   #anMusic-page .aplayer-list {
-    position: fixed;
-    z-index: 1002;
+    position: fixed !important;
+    z-index: 1002 !important;
     width: 100%;
-    bottom: -76%;
+    /* bottom: -76%; */
+    bottom: -1500px;
     left: 0;
     background: var(--sidebar-bg);
     height: auto;
-    bottom: -600px;  /* 确保这个值合理，以下面更好的值替代 */
     border-radius: 15px 15px 0px 0px;
     padding: 15px 0px;
   }
   #anMusic-page .aplayer-list.aplayer-list-hide {
-    bottom: 0% !important;
+    /* bottom: 0% !important; */
+    bottom: -825px !important;
+    /* position: fixed;
+    z-index: 9999 !important; */
   }
   #anMusic-page ol {
     max-height: 60vh !important;
@@ -290,7 +293,6 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
   /* 歌词信息 */
   #anMusic-page .aplayer-body {
     width: 100%;
-
     position: fixed;
     margin: auto;
     left: 0;
@@ -310,7 +312,8 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
   /* 控制按键和进度条 */
   #anMusic-page .aplayer-info .aplayer-controller {
     width: 100%;
-    bottom: -600px;
+    /* bottom: 100px; */
+    bottom: -650px;
   }
   #anMusic-page .aplayer-info .aplayer-controller .aplayer-bar-wrap {
     margin: 0 30px;

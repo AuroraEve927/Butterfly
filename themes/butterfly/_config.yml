@@ -1018,6 +1018,7 @@ inject:
     - <script defer data-pjax src="/js/cat.js"></script>
     - <script async src="//at.alicdn.com/t/c/font_4549610_t2s4a2808b.js"></script>
     - <script src="/js/sun_moon.js" async></script>
+    - <script src="/js/Meting2.min.js" async></script>
     - <script async data-pjax src="/js/anzhiyu.js"></script>
 
 # CDN
@@ -1082,7 +1083,7 @@ CDN:
     # mermaid:
     # meting_js:
     # meting_js: /source/js/Meting2.min.js
-    meting_js: https://npm.elemecdn.com/hexo-anzhiyu-music@1.0.1/assets/js/Meting2.min.js
+    # meting_js: https://npm.elemecdn.com/hexo-anzhiyu-music@1.0.1/assets/js/Meting2.min.js
     # pangu:
     # prismjs_autoloader:
     # prismjs_js:
