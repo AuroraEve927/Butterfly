@@ -11,6 +11,19 @@
     transform: translateZ(0);
     animation: .6s ease 0s 1 normal none running to_show;
     -webkit-transform-style: preserve-3d;
+  
+  #menu-maskfix
+    position: fixed
+    z-index: 60
+    display: none
+    width: 100%
+    height: 100%
+    background: var(--anzhiyu-maskbg);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    transform: translateZ(0);
+    animation: .6s ease 0s 1 normal none running to_show;
+    -webkit-transform-style: preserve-3d;
     
   #sidebar-menus
     position: fixed
