@@ -40,6 +40,21 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.notion.so/',Notion, ,outline larger %}
 </div>
 
+## 英语学习
+
+<div class="btn-center">
+{% btn 'https://www.typelit.io/',TypeLit（英文小说打字）, ,outline black larger %}
+{% btn 'http://readpoopfiction.com/',Poopfiction, ,outline blue larger %}
+{% btn 'http://100wordstory.org/',100 Word Story, ,outline orange larger %}
+{% btn 'https://www.playphrase.me/',PlayPhrase, ,outline red larger %}
+{% btn 'https://breakingnewsenglish.com/',Break news English, ,outline black larger %}
+{% btn 'https://www.yywz123.com/',英语学习网站大全, ,outline orange larger %}
+{% btn 'https://www.babelabc.com/',巴别英语, ,outline red larger %}
+{% btn 'https://www.eapfoundation.com/',EAPFOUNDATION, ,outline black larger %}
+{% btn 'https://www.oxfordlearnersdictionaries.com',Oxford Learner's Dictionaries, ,outline black larger %}
+{% btn 'https://engoo.com/app/daily-news',Engoo daily news, ,outline blue larger %}
+</div>
+
 ## 论坛
 
 <div class="btn-center">
