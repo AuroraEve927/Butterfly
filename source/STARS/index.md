@@ -227,4 +227,5 @@ PPT模板
 {% btn 'https://blog.goodboyboy.top/',惬意小屋-点滴记忆, ,outline larger %}
 {% btn 'https://note.isshikih.top/',Isshiki修, ,outline larger %}
 {% btn 'https://tonycrane.cc/',鹤翔万里, ,outline larger %}
+{% btn 'https://lerry.me/',Lerry's BLog, ,outline larger %}
 </div>

@@ -118,3 +118,106 @@ git config --global https.proxy "127.0.0.1:7890"
 但是手机端的配置还有点问题
 
 source\css\_layout\sidebar.styl
+
+5、twikoo评论系统
+
+[HEXO系列教程 | 在Butterfly主题中使用评论系统twikoo – 夜梦星尘の折腾日记 (yemengstar.com)](https://tech.yemengstar.com/hexo-tutorial-theme-butterfly-comments/)
+
+[【docker】在服务器上安装docker/docker-compose – 夜梦星尘の折腾日记 (yemengstar.com)](https://tech.yemengstar.com/docker-install-docker-docker-compose-server/)
+
+[【CentOS7】Linux安装Docker教程（保姆篇）_linux centos7 安装docker-CSDN博客](https://blog.csdn.net/Aaaaaaatwl/article/details/139860522)
+
+
+
+[解决Docker在pull的时候报错Get https://registry-1.docker.io/v2/: net/http: request canceled (Client.Timeout e_docker login request canceled (client.timeout exce-CSDN博客](https://blog.csdn.net/Piconjo/article/details/105037514)
+
+[彻底解决docker：docker: Get https://registry-1.docker.io/v2/: net/http: request canceled 报错-CSDN博客](https://blog.csdn.net/2301_79849395/article/details/142829852)
+
+[目前国内可用Docker镜像源汇总（截至2024年8月） - CoderJia](https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea)
+
+
+
+```
+version: '3'
+services:
+  app:
+    image: 'jc21/nginx-proxy-manager:latest'
+    restart: unless-stopped
+    ports:
+      - '200:80'  # 冒号左边可以改成自己服务器未被占用的端口
+      - '201:81'  # 冒号左边可以改成自己服务器未被占用的端口
+      - '202:443' # 冒号左边可以改成自己服务器未被占用的端口
+    volumes:
+      - ./data:/data # 冒号左边可以改路径，现在是表示把数据存放在在当前文件夹下的 data 文件夹中
+      - ./letsencrypt:/etc/letsencrypt  # 冒号左边可以改路径，现在是表示把数据存放在在当前文件夹下的 letsencrypt 文件夹中
+```
+
+http://106.54.2.126:201
+
+[Login – Nginx Proxy Manager](http://106.54.2.126:201/login)
+
+https://auroraeve.com:201
+
+
+
+![image-20241013134447119](https://bu.dusays.com/2024/10/13/670b5e4ece54c.png)
+
+[nginx-proxy-manager初次登录502 bad gateway_nginx proxy manager bad gateway-CSDN博客](https://blog.csdn.net/heroguo007/article/details/135225592)
+
+[[解决了？从 2.9.19 更新到 2.10.4 后，本地端口 81 登录屏幕上出现“网关错误”，但网站仍可正常运行 ·问题 #3237 ·nginx代理管理器/nginx-proxy-manager (github.com)](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3237)
+
+```
+version: '3'
+services:
+  app:
+    image: 'jc21/nginx-proxy-manager:latest'
+    restart: unless-stopped
+    ports:
+      - '200:80'  # 冒号左边可以改成自己服务器未被占用的端口
+      - '201:81'  # 冒号左边可以改成自己服务器未被占用的端口
+      - '202:443' # 冒号左边可以改成自己服务器未被占用的端口
+    environment:
+      DB_MYSQL_HOST: "db"
+      DB_MYSQL_PORT: 3306
+      DB_MYSQL_USER: "npm"
+      DB_MYSQL_PASSWORD: "(PASSWORD)"
+      DB_MYSQL_NAME: "npm"
+    volumes:
+      - ./data:/data # 冒号左边可以改路径，现在是表示把数据存放在在当前文件夹下的 data 文件��中
+      - ./letsencrypt:/etc/letsencrypt  # 冒号左边可以改路径，现在是表示把数据存放在在当前文件夹下的 letsencrypt 文件夹中
+  db:
+    image: 'jc21/mariadb-aria:latest'
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: '(PASSWORD)'
+      MYSQL_DATABASE: 'npm'
+      MYSQL_USER: 'npm'
+      MYSQL_PASSWORD: '(PASSWORD)'
+    volumes:
+      #- ./data/mysql:/var/lib/mysql
+      - ./mysql:/var/lib/mysql
+```
+
+```
+mkdir -p /root/data/docker_data/proxy
+cd /root/data/docker_data/proxy
+vim docker-compose.yml
+
+
+version: '3'
+services:
+  app:
+    image: 'jc21/nginx-proxy-manager:2.9.18'
+    restart: unless-stopped
+    ports:
+      - '8881:80'
+      - '81:81'
+      - '4483:443'
+    volumes:
+      - ./data:/data 
+      - ./letsencrypt:/etc/letsencrypt  
+      
+docker-compose pull
+docker-compose up -d
+```
+
