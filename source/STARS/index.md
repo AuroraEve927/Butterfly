@@ -53,6 +53,9 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.eapfoundation.com/',EAPFOUNDATION, ,outline black larger %}
 {% btn 'https://www.oxfordlearnersdictionaries.com',Oxford Learner's Dictionaries, ,outline black larger %}
 {% btn 'https://engoo.com/app/daily-news',Engoo daily news, ,outline blue larger %}
+{% btn 'https://www.scientificamerican.com/',SCIENTIFIC AMERICAN, ,outline black larger %}
+{% btn 'https://www.scientificamerican.com/latest/',SCI AM, ,outline black larger %}
+{% btn 'https://www.newscientist.com/',New Scientist, ,outline black larger %}
 </div>
 
 ## 论坛
@@ -100,6 +103,7 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.52pojie.cn/',吾爱破解, ,outline red larger %}
 {% btn 'https://sunsetbot.top/map/',火烧云地图, ,outline red larger %}
 {% btn 'https://zh.z-library.se/',Z-Library, ,outline blue larger %}
+{% btn 'https://annas-archive.org/',Anna’s Archive（也是个找书网站）, ,outline blue larger %}
 {% btn 'https://www.marxists.org/chinese/index.html',马克思主义文库, ,outline red larger %}
 </div>
 
