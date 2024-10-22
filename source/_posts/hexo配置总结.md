@@ -221,3 +221,6 @@ docker-compose pull
 docker-compose up -d
 ```
 
+6、安知鱼关于界面
+
+[butterfly魔改关于页面 | 安知鱼](https://blog.anheyu.com/posts/e62b.html)

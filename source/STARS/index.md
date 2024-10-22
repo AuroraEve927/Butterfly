@@ -148,6 +148,7 @@ PPT模板
 <div class="btn-center">
 {% btn 'https://fontawesome.com/icons?from=io',Font Awesome, ,outline larger %}
 {% btn 'https://www.iconfont.cn/',iconfont（阿里巴巴矢量图标库）, ,outline red larger %}
+{% btn 'https://mgc.mingcute.com/',MGC Icon System, ,outline larger %}
 </div>
 审美提高
 

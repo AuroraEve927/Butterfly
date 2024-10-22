@@ -5,6 +5,8 @@ date: 2024-05-05 18:16:00
 
 # 想看的电影
 
+搏击俱乐部
+
 The Glory
 
 Alice in Borderland
