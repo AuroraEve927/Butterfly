@@ -38,6 +38,7 @@ date: 2024-05-09 11:20:06
 {% btn 'https://linux.do/',LINUX DO, ,outline black larger %}
 {% btn 'https://app.follow.is/',Follow, ,outline orange larger %}
 {% btn 'https://www.notion.so/',Notion, ,outline larger %}
+{% btn 'https://www.essay.ink/essays',时光广场, ,outline larger %}
 </div>
 
 ## 英语学习
@@ -162,6 +163,9 @@ PPT模板
 {% btn 'https://tool.liumingye.cn/music/?page=searchPage#/',My Free MP3, ,outline larger %}
 {% btn 'https://mixkit.co/',mixkit, ,outline larger %}
 {% btn 'https://www.playlistmusic.com.cn/playList',PLAYLIST, ,outline red larger %}
+{% btn 'https://www.wxy97.com/archives/1f81713e-0ffc-4f5c-b4cc-6acb111e0062',音乐自由, ,outline larger %}
+{% btn 'https://www.mudaiba.com/',母带吧音乐, ,outline larger %}
+
 </div>
 
 字体收集
@@ -248,4 +252,5 @@ PPT模板
 {% btn 'https://note.isshikih.top/',Isshiki修, ,outline larger %}
 {% btn 'https://tonycrane.cc/',鹤翔万里, ,outline larger %}
 {% btn 'https://lerry.me/',Lerry's BLog, ,outline larger %}
+{% btn 'http://i-uvooc-com-s.webvpn.zju.edu.cn:8001/',友沃可, ,outline orange larger %}
 </div>
