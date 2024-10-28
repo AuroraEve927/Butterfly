@@ -68,6 +68,7 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.cnblogs.com/',博客园, ,outline orange larger %}
 {% btn 'https://www.52pojie.cn/',吾爱破解, ,outline red larger %}
 {% btn 'https://app.follow.is/',Follow, ,outline orange larger %}
+{% btn 'https://www.dians.net/',电手, ,outline yellow larger %}
 {% btn 'https://blog.csdn.net/erthre/article/details/137621365',程序员论坛合集, ,outline red larger %}
 </div>
 

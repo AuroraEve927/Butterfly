@@ -43,6 +43,26 @@ date: 2024-04-01 17:26:31
 
 ---
 
+## 一些DREAM
+
+- [x] 参加一次WCA（[World Cube Association](https://www.baidu.com/link?url=Cg2NI9hFaMqb3s67rVttaXSFq-9Sy42GfeyHAwZnZkh7dXBpmofJ3TZpHQ-rSMn1&wd=&eqid=bc64b74b01e0464d00000005671e5952)）
+  done：11月 25, 2023  [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023)
+  WCA ID ：[2023FENG16](https://www.worldcubeassociation.org/persons/2023FENG16)
+- [ ] 学会3阶盲拧（彳亍法）
+- [ ] 求是大讲堂拍星轨
+- [ ] 交响乐音乐会
+- [ ] 小刚演唱会
+- [ ] 1月份去南半球
+- [ ] 北海道
+- [ ] 冰岛
+- [ ] 王者上百星、200分、以及省标镜
+- [ ] 现场KPL总决赛
+- [ ] 马拉松
+- [ ] Z73
+- [ ] Z卡口大三元
+
+---
+
 ## 更新记录
 
 `Version 2.5.2.241010_beta`
