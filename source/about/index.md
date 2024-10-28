@@ -45,6 +45,10 @@ date: 2024-04-01 17:26:31
 
 ## 一些DREAM
 
+- [ ] 拍一条这样的延时摄影视频，这是梦开始的地方。浮光 (The History)（doing）
+  [【4k】耗时两年，4k超清星空延时-星动中国_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sk4y1k73b/?spm_id_from=333.337.search-card.all.click&vd_source=851eb39e369398dfd488218128ad07b6)
+- [ ] 做一个这样的数学动画。
+  [【官方双语】为什么方块碰撞能够用来计算π？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bt41147H5/?spm_id_from=333.999.0.0&vd_source=851eb39e369398dfd488218128ad07b6)
 - [x] 参加一次WCA（[World Cube Association](https://www.baidu.com/link?url=Cg2NI9hFaMqb3s67rVttaXSFq-9Sy42GfeyHAwZnZkh7dXBpmofJ3TZpHQ-rSMn1&wd=&eqid=bc64b74b01e0464d00000005671e5952)）
   done：11月 25, 2023  [Hefei Winter Open 2023](https://www.worldcubeassociation.org/competitions/HefeiWinterOpen2023)
   WCA ID ：[2023FENG16](https://www.worldcubeassociation.org/persons/2023FENG16)
@@ -158,7 +162,7 @@ date: 2024-04-01 17:26:31
 
 定个小目标，等我考上研，我就转CS，绝对转。
 
-DAWNBEFOREEDARKNESS
+DAWNBEFOREEDARKNESS，在最黑的夜，找最亮的星。
 
 ---
 
