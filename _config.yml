@@ -257,3 +257,13 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./node_modules/hexo-generator-sitemap/sitemap.xml
+  template_txt: ./node_modules/hexo-generator-sitemap/sitemap.txt
+  rel: false
+  tags: true
+  categories: true

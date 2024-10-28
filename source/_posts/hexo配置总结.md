@@ -224,3 +224,21 @@ docker-compose up -d
 6、安知鱼关于界面
 
 [butterfly魔改关于页面 | 安知鱼](https://blog.anheyu.com/posts/e62b.html)
+
+7、sitemap
+
+[hexojs/hexo-generator-sitemap： Hexo 的站点地图生成器。](https://github.com/hexojs/hexo-generator-sitemap?tab=readme-ov-file)
+
+官网上的配置文件有点问题，这是我的配置文件
+
+```yaml
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./node_modules/hexo-generator-sitemap/sitemap.xml
+  template_txt: ./node_modules/hexo-generator-sitemap/sitemap.txt
+  rel: false
+  tags: true
+  categories: true
+```
