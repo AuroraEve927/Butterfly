@@ -15,6 +15,8 @@ tags:
 
 [Hexo安知鱼主题修改背景折腾记录 | GoodBoyboy 's Blog｜惬意小屋-点滴记忆](https://blog.goodboyboy.top/posts/3299842545.html#:~:text=当完成上面操作后我们)
 
+记录一个好看的主题[YunYouJun/hexo-theme-yun: ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。](https://github.com/YunYouJun/hexo-theme-yun)
+
 1、添加--anzhiyu-card-bg
 
 主题文件夹下\source\css\_global\index.styl

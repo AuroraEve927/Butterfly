@@ -113,6 +113,7 @@ date: 2024-04-01 17:26:31
 
 ## 喜欢的一些句子
 
+- **See the world, not your screen.**（20241031）
 - 不带成见地去多接触世界吧。直到目标明确了，不需要的东西就能顺其自然地舍弃。 ---岩崎弥太郎-（20241022）
 - 张华考上了北京大学，李萍进了中等技术学校，我在百货公司当售货员，我们都有光明的未来。（20241019）
 - Some people can read War and Peace and come away thinking it's a simple adventure story; Other can read the ingredients on the back of a chewing-gum wrapper and unlock the secrets of the universe.（有些人看完《战争与和平》，觉得它只是个简单的冒险故事；而有些人看了口香糖包装纸上的成分后，却能解开宇宙的秘密。）（20241006）

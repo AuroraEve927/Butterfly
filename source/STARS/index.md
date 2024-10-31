@@ -107,7 +107,9 @@ date: 2024-05-09 11:20:06
 {% btn 'https://zh.z-library.sk/',Z-Library, ,outline blue larger %}
 <!-- {% btn 'https://zh.z-library.se/',Z-Library, ,outline blue larger %} -->
 {% btn 'https://annas-archive.org/',Anna’s Archive（也是个找书网站）, ,outline blue larger %}
+{% btn 'https://libgen.is/',Library Genesis, ,outline blue larger %}
 {% btn 'https://www.marxists.org/chinese/index.html',马克思主义文库, ,outline red larger %}
+{% btn 'https://btfy.ur1.fun/',让我帮你百度一下, ,outline blue larger %}
 </div>
 
 
@@ -197,6 +199,7 @@ PPT模板
 生产力
 
 <div class="btn-center">
+{% btn 'https://docs.ocsjs.com/',OCS网课助手, ,outline larger %}
 {% btn 'https://typora.io/',Typora, ,outline larger %}
 {% btn 'https://www.latex-project.org/',LaTeX, ,outline red larger %}
 {% btn 'https://www.overleaf.com/',overleaf, ,outline blue larger %}
@@ -255,4 +258,10 @@ PPT模板
 {% btn 'https://tonycrane.cc/',鹤翔万里, ,outline larger %}
 {% btn 'https://lerry.me/',Lerry's BLog, ,outline larger %}
 {% btn 'http://i-uvooc-com-s.webvpn.zju.edu.cn:8001/',友沃可, ,outline orange larger %}
+{% btn 'https://www.geedea.pro/',極客死亡計劃, ,outline larger %}
+{% btn 'https://brocalife.com/',白洛嘉, ,outline larger %}
+{% btn 'https://onojyun.com/',莫比乌斯, ,outline larger %}
+{% btn 'https://www.velasx.com/',Velas 电波站, ,outline larger %}
+{% btn 'https://www.yunyoujun.cn/',云游君, ,outline larger %}
+{% btn 'https://blog.licaoz.com/',LCZBlog, ,outline larger %}
 </div>
