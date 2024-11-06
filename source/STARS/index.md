@@ -109,6 +109,7 @@ date: 2024-05-09 11:20:06
 {% btn 'https://annas-archive.org/',Anna’s Archive（也是个找书网站）, ,outline blue larger %}
 {% btn 'https://libgen.is/',Library Genesis, ,outline blue larger %}
 {% btn 'https://www.marxists.org/chinese/index.html',马克思主义文库, ,outline red larger %}
+{% btn 'https://nav.liwenkai.fun/',前端导航, ,outline larger %}
 {% btn 'https://btfy.ur1.fun/',让我帮你百度一下, ,outline blue larger %}
 </div>
 
@@ -154,7 +155,9 @@ PPT模板
 {% btn 'https://fontawesome.com/icons?from=io',Font Awesome, ,outline larger %}
 {% btn 'https://www.iconfont.cn/',iconfont（阿里巴巴矢量图标库）, ,outline red larger %}
 {% btn 'https://mgc.mingcute.com/',MGC Icon System, ,outline larger %}
+{% btn 'https://icons8.com/',Icons8, ,outline green larger %}
 </div>
+
 审美提高
 
 <div class="btn-center">
