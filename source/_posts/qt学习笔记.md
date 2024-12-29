@@ -64,3 +64,13 @@ QT预览Ctrl+R
 [QT使用按钮打开新窗口_qt点击按钮弹出另一个界面-CSDN博客](https://blog.csdn.net/shenlaoli/article/details/128681032)
 
 [QT---制作简易串口助手_qt编写串口助手-CSDN博客](https://blog.csdn.net/qq_58744641/article/details/128837479)
+
+[Qt多界面使用串口收发数据_qt串口通信,数据发给其他多个类使用-CSDN博客](https://blog.csdn.net/weixin_43742616/article/details/113352522)
+
+[qt 指示灯 状态灯 红绿灯 LED灯：使用QLabel实现_qt界面ui设计指示灯-CSDN博客](https://blog.csdn.net/Fourier_1024/article/details/113517982?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-113517982-blog-140586898.235^v43^pc_blog_bottom_relevance_base4&spm=1001.2101.3001.4242.1&utm_relevant_index=2)
+
+[QT摄像头采集_qt摄像头采集数据-CSDN博客](https://blog.csdn.net/u011436603/article/details/136328306)
+
+[QT中的摄像头拍摄保存画面_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17BDvYaEDv/?vd_source=851eb39e369398dfd488218128ad07b6)
+
+[用qt打开自己电脑摄像头并截屏摄像头图像。_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iL4y1P78V/?vd_source=851eb39e369398dfd488218128ad07b6)

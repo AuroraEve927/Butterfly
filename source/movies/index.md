@@ -33,7 +33,7 @@ Squid Game
 
 超脱
 
-JOKER
+JOKER8.9（20241108）
 
 钢琴家
 
