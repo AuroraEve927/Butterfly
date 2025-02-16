@@ -204,6 +204,18 @@ PPT模板
 
 ## 一些小工具
 
+摄影用
+<div class="btn-center">
+{% btn 'https://markus-enzweiler.de/software/starstax/',StarStaX, ,outline larger %}
+</div>
+
+围棋
+<div class="btn-center">
+{% btn 'https://www.ruijiang.com/multigo/chs/',MultiGo, ,outline larger %}
+{% btn 'https://www.foxwq.com/',野狐围棋, ,outline larger %}
+{% btn 'https://katagotraining.org/',Katago, ,outline larger %}
+</div>
+
 生产力
 
 <div class="btn-center">
