@@ -36,7 +36,7 @@ date: 2024-05-09 11:20:06
 <div class="btn-center">
 {% btn 'https://www.v2ex.com/',V2EX, ,outline black larger %}
 {% btn 'https://linux.do/',LINUX DO, ,outline black larger %}
-{% btn 'https://app.follow.is/',Follow, ,outline orange larger %}
+{% btn 'https://chatgpt.com/',ChatGPT, ,outline orange larger %}
 {% btn 'https://www.notion.so/',Notion, ,outline larger %}
 {% btn 'https://www.essay.ink/essays',时光广场, ,outline larger %}
 {% btn 'https://topstip.com/',TOPS TIP, ,outline larger %}
@@ -241,7 +241,8 @@ PPT模板
 {% btn 'https://obsproject.com/',OBS, ,outline larger %} 
 {% btn 'https://geekuninstaller.com/',geek, ,outline blue larger %} 
 {% btn 'https://github.com/zbezj/HEU_KMS_Activator',HEU_KMS, ,outline green larger %} 
-{% btn 'https://www.bandisoft.com/honeyview/',Honeyview, ,outline orange larger %} 
+{% btn 'https://www.bandisoft.com/honeyview/',Honeyview, ,outline orange larger %}
+{% btn 'https://greasyfork.org/zh-CN',插件, ,outline orange larger %}
 </div>
 
 
