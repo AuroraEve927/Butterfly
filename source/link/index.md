@@ -47,6 +47,11 @@ type: "link"
       link: https://www.iczrx.cn
       avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640
       descr: 做好量变的准备，促进事物的质变。
+      title: "Ponyboy的个人博客"
+    - name: Ponyboy的个人博客
+      link: https://ponyboy2005.github.io/
+      avatar: https://s2.loli.net/2025/02/06/F3tk6dCEMUB45Qn.png
+      descr: Stay alive
 
 - class_name: 网站
   class_desc: 值得推荐的网站
@@ -83,3 +88,4 @@ descr: 别赶路，去感受路。
   descr: 别赶路，去感受路。
   siteshot: https://bu.dusays.com/2024/10/07/67040536c07e0.jpg
 ```
+
