@@ -37,6 +37,8 @@ date: 2024-05-09 11:20:06
 {% btn 'https://www.v2ex.com/',V2EX, ,outline black larger %}
 {% btn 'https://linux.do/',LINUX DO, ,outline black larger %}
 {% btn 'https://chatgpt.com/',ChatGPT, ,outline orange larger %}
+{% btn 'https://www.oxfordlearnersdictionaries.com',Oxford Learner's Dictionaries, ,outline black larger %}
+{% btn 'https://www.netflix.com/browse',Netflix, ,outline red larger %}
 {% btn 'https://www.notion.so/',Notion, ,outline larger %}
 {% btn 'https://www.essay.ink/essays',时光广场, ,outline larger %}
 {% btn 'https://topstip.com/',TOPS TIP, ,outline larger %}
@@ -285,4 +287,6 @@ PPT模板
 {% btn 'https://www.velasx.com/',Velas 电波站, ,outline larger %}
 {% btn 'https://www.yunyoujun.cn/',云游君, ,outline larger %}
 {% btn 'https://blog.licaoz.com/',LCZBlog, ,outline larger %}
+{% btn 'https://xuan-insr.github.io/',咸鱼暄的代码空间, ,outline larger %}
+{% btn 'https://note.isshikih.top/',Isshiki修's Notebook, ,outline larger %}
 </div>
