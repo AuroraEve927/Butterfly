@@ -105,8 +105,10 @@ theme: butterfly
 deploy:
   type: git
   #repo改为repo: git@域名:/var/repo/hexo.git
-  repo: git@106.54.2.126:/var/repo/hexo.git
-  branch: master
+  #repo: git@106.54.2.126:/var/repo/hexo.git
+  repo: git@github.com:AuroraEve927/AuroraEve.github.io.git
+  branch: main
+  #branch: master
 
 # 本地搜索
 search:
